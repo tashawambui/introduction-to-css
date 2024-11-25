@@ -1,0 +1,19 @@
+/*css styling*/
+#p1{
+    font-style: italic;
+    color: purple;
+}
+#p2{
+    font-family: Arial, Helvetica, sans-serif;
+    color:purple;
+}
+#p3{
+    color:purple;
+    font-size: medium;
+
+}
+.p4{
+    text-align: center;
+    color: blueviolet;
+    font-size: large;
+}
